@@ -1,3 +1,3 @@
 # Test demo 
 
-http://cheriezhang.github.io/index.html
+http://cheriezhang.github.io/Test/index.html
