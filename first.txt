@@ -1,1 +1,3 @@
 第一次推test仓库，command
+尝试使用fork进行pull request
+不适用new pull request
