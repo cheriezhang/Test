@@ -1,2 +1,2 @@
 第三次推test仓库  dev分支的修改
-on branch master
+on branch dev2
